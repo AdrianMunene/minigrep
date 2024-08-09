@@ -1,1 +1,1 @@
-C:\Users\USER\OneDrive\Documents\Rust\ Files\minigrep\target\debug\minigrep.exe: C:\Users\USER\OneDrive\Documents\Rust\ Files\minigrep\src\main.rs
+C:\Users\USER\OneDrive\Documents\Rust\ Files\minigrep\target\debug\minigrep.exe: C:\Users\USER\OneDrive\Documents\Rust\ Files\minigrep\src\lib.rs C:\Users\USER\OneDrive\Documents\Rust\ Files\minigrep\src\main.rs
